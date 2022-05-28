@@ -4,6 +4,7 @@
     type="password"
     placeholder="Please input password"
     show-password
+    clearable
   />
 </template>
 
